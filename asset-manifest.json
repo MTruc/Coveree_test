@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Coveree_test/static/css/main.6c839eb9.chunk.css",
-    "main.js": "/Coveree_test/static/js/main.3281a79d.chunk.js",
-    "main.js.map": "/Coveree_test/static/js/main.3281a79d.chunk.js.map",
-    "runtime-main.js": "/Coveree_test/static/js/runtime-main.32ecd619.js",
-    "runtime-main.js.map": "/Coveree_test/static/js/runtime-main.32ecd619.js.map",
-    "static/css/2.af3c1da9.chunk.css": "/Coveree_test/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.a1acc20a.chunk.js": "/Coveree_test/static/js/2.a1acc20a.chunk.js",
-    "static/js/2.a1acc20a.chunk.js.map": "/Coveree_test/static/js/2.a1acc20a.chunk.js.map",
-    "index.html": "/Coveree_test/index.html",
-    "precache-manifest.795ea2a8ea0f6bf5099371ef59132541.js": "/Coveree_test/precache-manifest.795ea2a8ea0f6bf5099371ef59132541.js",
-    "service-worker.js": "/Coveree_test/service-worker.js",
-    "static/css/2.af3c1da9.chunk.css.map": "/Coveree_test/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.6c839eb9.chunk.css.map": "/Coveree_test/static/css/main.6c839eb9.chunk.css.map",
-    "static/js/2.a1acc20a.chunk.js.LICENSE.txt": "/Coveree_test/static/js/2.a1acc20a.chunk.js.LICENSE.txt"
+    "main.css": "/Coveree_test/.%20/static/css/main.6c839eb9.chunk.css",
+    "main.js": "/Coveree_test/.%20/static/js/main.58908622.chunk.js",
+    "main.js.map": "/Coveree_test/.%20/static/js/main.58908622.chunk.js.map",
+    "runtime-main.js": "/Coveree_test/.%20/static/js/runtime-main.2b1605c3.js",
+    "runtime-main.js.map": "/Coveree_test/.%20/static/js/runtime-main.2b1605c3.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/Coveree_test/.%20/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.a1acc20a.chunk.js": "/Coveree_test/.%20/static/js/2.a1acc20a.chunk.js",
+    "static/js/2.a1acc20a.chunk.js.map": "/Coveree_test/.%20/static/js/2.a1acc20a.chunk.js.map",
+    "index.html": "/Coveree_test/.%20/index.html",
+    "precache-manifest.0c4ece4df2f0413aa70854829b88ee91.js": "/Coveree_test/.%20/precache-manifest.0c4ece4df2f0413aa70854829b88ee91.js",
+    "service-worker.js": "/Coveree_test/.%20/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/Coveree_test/.%20/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.6c839eb9.chunk.css.map": "/Coveree_test/.%20/static/css/main.6c839eb9.chunk.css.map",
+    "static/js/2.a1acc20a.chunk.js.LICENSE.txt": "/Coveree_test/.%20/static/js/2.a1acc20a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.32ecd619.js",
+    "static/js/runtime-main.2b1605c3.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.a1acc20a.chunk.js",
     "static/css/main.6c839eb9.chunk.css",
-    "static/js/main.3281a79d.chunk.js"
+    "static/js/main.58908622.chunk.js"
   ]
 }
